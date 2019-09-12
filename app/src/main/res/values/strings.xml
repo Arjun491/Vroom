@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">VRoom</string>
+    <string name="register">REGISTER</string>
+
+
+
+
+    <string-array name="examples">
+        <item>LOOKING FOR THE RIDER APP?</item>
+        <item>YOU ARE ON RIGHT SPOT</item>
+    </string-array>
+</resources>

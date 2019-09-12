@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "964622392048",
+    "firebase_url": "https://vroom-446f8.firebaseio.com",
+    "project_id": "vroom-446f8",
+    "storage_bucket": "vroom-446f8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:964622392048:android:c584b653efb7e947c94035",
+        "android_client_info": {
+          "package_name": "com.example.vroom"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "964622392048-jnja64buc3akjd16looc4bk6dil6p0qv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.vroom",
+            "certificate_hash": "0018c71ad2b7a0871cbf1646b15268bdd733e3ac"
+          }
+        },
+        {
+          "client_id": "964622392048-mt3gvoupjl8dkpqddj58f2f1lc63us8t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNLqIQou6527dqGtnE65N8nPIJ-rsriB0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "964622392048-mt3gvoupjl8dkpqddj58f2f1lc63us8t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
