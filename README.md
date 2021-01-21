@@ -18,6 +18,6 @@ Have a look on black Taxi is moving from start point (Douglas College, New Westm
 
 
 
-User even can customize the maps theme, see gif below:
+
 
 
