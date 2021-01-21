@@ -2,7 +2,7 @@
 
 
 # Vroom
-live preview: https://arjunsingh.tech/
+live preview: http://www.arjunsingh.tech/
 
 
 
